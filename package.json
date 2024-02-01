@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@kibocommerce/rest-sdk": "^0.0.22",
+    "dotenv": "^16.4.1",
+    "headless-chrome-crawler": "^1.8.0"
+  }
+}
