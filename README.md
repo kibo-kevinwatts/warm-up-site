@@ -25,5 +25,5 @@ HEADLESS_STOREFRONT_URL=https://nextjs-storefront-kibo-commerce.vercel.app/
 
 5. run script
 ```bash
-npm run
+npm start
 ```
